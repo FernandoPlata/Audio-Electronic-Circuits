@@ -1,0 +1,10 @@
+# Linkwitz-Riley 4th-Order Crossover Filter
+
+This project implements a **4th-order Linkwitz-Riley (LR4) crossover filter** designed for audio applications, specifically for dividing audio signals into low and high frequency bands at a **crossover frequency (fx) of 450 Hz**.
+
+## Design Overview
+
+- **Filter Type:** Linkwitz-Riley
+- **Order:** 4th order 
+- **Crossover Frequency (fx):** 450 Hz
+- **Configuration:** Cascaded 2nd-order Butterworth low-pass and high-pass filters
