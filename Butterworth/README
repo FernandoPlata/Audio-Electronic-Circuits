@@ -1,0 +1,9 @@
+# Butterworth 3rd-Order Filter
+
+This files implements a **3rd-order Butterworth filter**
+
+##  Specifications
+
+- **Filter Type:** Butterworth
+- **Order:** 3rd order 
+- **Crossover Frequency (fx):** 450 Hz 
