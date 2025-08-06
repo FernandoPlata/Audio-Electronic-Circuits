@@ -1,0 +1,11 @@
+# Parametric Equalizer – State Variable Filter
+
+This circuit involves the design of a **parametric equalizer** based on a **state variable filter**, using the following specifications:
+
+## Design Specifications
+
+- **Gain/Attenuation:** ±12 dB
+- **Adjustable Frequency Range:** 100 Hz to 1 kHz
+- **Quality Factor (Q):** Adjustable from 1 to 4
+
+
