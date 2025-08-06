@@ -1,0 +1,11 @@
+# 50W Audio Power Amplifier (27 dB Gain)
+
+This design implements a **50-watt audio power amplifier** designed to drive an **8-ohm speaker load** with a **voltage gain of 27 dB**. 
+---
+
+## Specifications
+
+- **Output Power:** 50 W RMS
+- **Load Impedance:** 8 Ω
+- **Voltage Gain:** 27 dB
+- **Frequency Response:** 20 Hz – 20 kHz (audio band)
