@@ -1,0 +1,10 @@
+# Baxandall Tone Control Circuit 
+
+This repository contains the schematic and simulation files for a **Baxandall tone control circuit** designed for audio applications.
+
+## Specifications
+
+- **Type:** Passive Baxandall Equalizer
+- **Attenuation / Gain Range:** ±20 dB
+- **Bass Corner Frequency (fB):** 100 Hz
+- **Treble Corner Frequency (fT):** 5 kHz
